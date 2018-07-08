@@ -1,7 +1,7 @@
 # farm-animals
 Who had a farm? Me after I created this web application.
 
-![alt tag](http://placecorgi.com/1200/650)
+![My Farm](farm.png)
 
 ## How It's Made:
 
