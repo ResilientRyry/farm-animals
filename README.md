@@ -1,7 +1,7 @@
 # farm-animals
 Who had a farm? Me after I created this web application.
 
-![My Farm](farm.png)
+![My Farm](farmPic.png)
 
 ## How It's Made:
 
